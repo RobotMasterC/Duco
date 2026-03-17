@@ -1,7 +1,17 @@
 # Duco
 A wireless split low profile mechanical keyboard that uses ZMK firmware and has additional keys for macros.
 
+<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/24e03329-bb92-4109-9625-2ba78bee3743" />
+
 ## Images
+
+### Schematic
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/aff97003-0d5f-4b6f-8ea3-faec8a4e6507" />
+
+### PCB
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/370b9730-1421-42e0-9e75-01412ea76e11" />
+
+
 
 ## Firmware
 [Repository is here](https://github.com/RobotMasterC/zmk-config)
