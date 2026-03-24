@@ -3,6 +3,7 @@
 <img width="1100" height="600" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/Overall-Image.png" />
 
 Duco is a low profile split keyboard that has extra keys for macros and uses ZMK firmware
+
 It was made for Hack Clubs [Blueprint](https://blueprint.hackclub.com) program!
 
 ## Images
