@@ -1,36 +1,42 @@
 # Duco
-A wireless split low profile mechanical keyboard that uses ZMK firmware and has additional keys for macros.
 
-<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/24e03329-bb92-4109-9625-2ba78bee3743" />
+<img width="1100" height="600" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/Overall-Image.png" />
+
+Duco is a low profile split keyboard that has extra keys for macros and uses ZMK firmware
+It was made for Hack Clubs [Blueprint](https://blueprint.hackclub.com) program!
 
 ## Images
 
 ### Schematic
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/aff97003-0d5f-4b6f-8ea3-faec8a4e6507" />
+<img width="600" height="300" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/Schematic-Image.png" />
 
 ### PCB
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/370b9730-1421-42e0-9e75-01412ea76e11" />
+<img width="600" height="300" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/PCB-Image.png" />
 
 
 
 ## Firmware
+
 [Repository is here](https://github.com/RobotMasterC/zmk-config)
 
 
 ## BOM
-| Item             | Amount | Cost Per | Total Cost (with tax) |
-| :---------------- | :------ | :---- | :-- |
-|[XIAO NRF52840](https://www.mouser.com/ProductDetail/Seeed-Studio/102010672?qs=sqEgtWRSLJ0SuHAgTfdO0A%3D%3D)  | x2 | $10.40 | $20.80 |
-|[Hotswap Socket (10 Pack)](https://www.mouser.com/ProductDetail/Adafruit/5118?qs=TCDPyi3sCW0NahZ3INJp%2FA%3D%3D) | x6 | $2.50 | $15.00 |
-|[Brown Choc Switches](https://mechanicalkeyboards.com/products/kailh-choc-brown-60g-low-profile-tactile) | x60 | $0.28 | $18.52 |
-|[1N4148 Diodes](https://www.mouser.com/ProductDetail/Diotec-Semiconductor/1N4148W?qs=OlC7AqGiEDmsbkbAeXQtXg%3D%3D) | x60 | $0.045 | $2.70 |
-|[PCM12SMTR Switch](https://www.mouser.com/ProductDetail/CK/PCM12SMTR?qs=mfFuHy8STfL3qrPSfCHA7w%3D%3D)| x2 | $1.16 | $2.32 |
-|[PCB](https://jlcpcb.com) (I will buy this myself to reduce the overall cost)|x5|$2.92| $0.00 |
-|Case (3D Printed by myself)| x2 | $0.00| $0.00 |
-|Keycaps (3D Printed by myself)| x56 | $0.00| $0.00 |
-|Shipping (MechanicalKeyboards.com)||| $4.90 |
-|Shipping (Mouser)||| $8.49 |
-|Shipping (JLCPCB) (I will buy this myself to reduce the overall cost) ||| $0.00|
-|Tariff Estimate||| $7.12 |
-|**Overall Cost**||| $79.85 |
-
+Overall cost: $116.82
+| Item  | Quantity | Unit Price | Total Price |
+|-------|----------|------------|-------------|
+| [XIAO NRF52840](https://www.mouser.com/ProductDetail/Seeed-Studio/102010672?qs=sqEgtWRSLJ0SuHAgTfdO0A%3D%3D) | 2 | 10.4 | 20.8 |
+| [Hotswap Socket (10 Pack)](https://www.mouser.com/ProductDetail/Adafruit/5118?qs=TCDPyi3sCW0NahZ3INJp%2FA%3D%3D) | 60 | 2.5 | 15 |
+| [Red Choc Switches (10 Pack)](https://chosfox.com/products/kailh-chocs?variant=42514647613634) | 60 | 4.5 | 27 |
+| [1N4148 Diodes](https://www.mouser.com/ProductDetail/Diotec-Semiconductor/1N4148W?qs=OlC7AqGiEDmsbkbAeXQtXg%3D%3D) | 56 | 0.045 | 2.7 |
+| [PCM12SMTR Switch](https://www.mouser.com/ProductDetail/CK/PCM12SMTR?qs=mfFuHy8STfL3qrPSfCHA7w%3D%3D) | 2| 1.16 | 2.32 |
+| [PCB](https://jlcpcb.com)| 5|| 14.6 |
+| Case (3D Printed)| 4 | | 0 |
+| Keycaps (3D Printed) | 56 || 0|
+| Shipping (Mouser)||| 8.49|
+| Shipping (JLCPCB)||| 11.99|
+| Shipping (ChosFox)||| 6.8|
+| Tarrif Estimate (Mouser)||| 7.12|
+|||||
+| Overall Cost||| 116.82|
+| Grant Needed||| 90.23|
+| (I will pay for the PCB to let this fit into tier 3) ||||
