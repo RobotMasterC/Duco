@@ -14,6 +14,11 @@ It was made for Hack Clubs [Blueprint](https://blueprint.hackclub.com) program!
 ### PCB
 <img width="600" height="300" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/PCB-Image.png" />
 
+### Top Case
+<img width="600" height="350" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/Top-Case.png" />
+
+### Bottom Case
+<img width="700" height="365" alt="image" src="https://raw.githubusercontent.com/RobotMasterC/Duco/refs/heads/main/Images/Bottom-Case.png" />
 
 
 ## Firmware
